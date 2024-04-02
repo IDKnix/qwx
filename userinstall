@@ -2,20 +2,9 @@
 
 mkdir ~/Documents/qwriter
 
-echo -e Created the qwriter directory for any exports you do... \n
-
-cd ~/Documents/qwriter
-
-echo -e To prove this folder is harmless.. \n
-
-pwd
-
-echo -e LS of this directory:\n
-
-ls
-
-echo There's nothing here!
 echo I'm going to move the executable to your PATH for usability..
+
+chmod +x main
 
 sudo mv main /bin/
 
