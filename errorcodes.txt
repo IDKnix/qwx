@@ -1,0 +1,9 @@
+errorcodes.txt
+
+12 = user quit command
+
+0 = good
+
+1 = error from the code (bad!)
+
+13 = update quit
