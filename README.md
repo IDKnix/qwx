@@ -17,11 +17,17 @@ If you want to do build from source then simply take the main.go file, use ```go
 
 To install it the normal way, just clone the repo and run the userinstall script. 
 
-```git clone https://github.com/IDKnix/qwx.git```
+```
+git clone https://github.com/IDKnix/qwx.git
+```
 
-```cd qwx```
+```
+cd qwx
+```
 
-```./userinstall```
+```
+./userinstall
+```
 
 #### Windows compatibilty?
 
