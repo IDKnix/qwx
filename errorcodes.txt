@@ -1,6 +1,6 @@
 errorcodes.txt
 
-12 = user quit command
+13 = user quit command
 
 0 = good
 
